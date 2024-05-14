@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    margin-top: 2rem;
+    border: solid 3px black;
+    width: 50%;
+}
+td{
+    height: 50px;
+    background-color: #666565;
+    text-shadow: 15px;
+    border: solid 1px red;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px 5px 2px #00000000;
+
+}
+
+th{
+    height: 30px;
+    background-color: #8fbb66;
+    text-shadow: 15px;
+    border: solid 1px red;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px 5px 2px #00000000;
+}
